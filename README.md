@@ -26,4 +26,22 @@
 
 </p>
 
-@COMMANDA
+COMMANDS🦇
+
+#INSTAL
+
+pkg upgrade
+
+pkg install git python
+
+pip install requests
+
+pip install bs4
+
+pip install mechanize
+
+git clone https://github.com/HemtKhan/old
+
+cd old
+
+python old.py
