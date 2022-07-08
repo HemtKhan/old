@@ -26,9 +26,3 @@
 
 </p>
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
-
-<h3 align="center">A Passionate Frontend Developer From AFGHANISTAN</h3>
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
